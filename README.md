@@ -2,7 +2,7 @@
 
 # IWBTKapphead - мазакор платформер вдохновлённый стилистикой I wanna be the boshy и Cuphead, где вам придётся проходит сложные уровни и боссов за Kappa emoji.
 
-# Для скачивания игры необходимо:
+# Для СКАЧИВАНИЯ ИГРЫ НЕОБХОДИМО:
 	- 1) Перейти в https://github.com/Cuptyom/IWBTKappheadPublic/releases
 	- 2) Открыть вкладку Assets
 	- 3) скачать IWBTKappheadPublic.rar
